@@ -87,7 +87,7 @@ Agents that plan and execute multi-step tasks across your tools, often specializ
 - [ChatGPT Agent](https://openai.com/index/introducing-chatgpt-agent) - OpenAI's agent that browses, uses tools, and completes multi-step web tasks on the user's behalf.
 - [Claude Cowork](https://www.anthropic.com/product/claude-cowork) - Anthropic's agent for non-coding knowledge work that runs background and scheduled tasks across shared projects and files.
 - [Dust](https://dust.tt) - Enterprise platform for building no-code AI agents grounded in company data through 100+ connectors, where teams and agents collaborate in a shared workspace.
-- [Manus](https://manus.im) - General-purpose agent that plans, browses, writes code, and returns finished deliverables.
+- [Manus](https://manus.im) - General-purpose agent, now part of Meta, that plans, browses, writes code, and returns finished deliverables.
 - [Meta Muse](https://ai.meta.com/muse) - Meta's proactive personal AI agent that plans and completes tasks across your apps from its own secure VM.
 - [Swiftask](https://www.swiftask.ai) - No-code platform for building and orchestrating multi-model AI agents across a company's tools, with centralized governance.
 
@@ -120,7 +120,7 @@ Agents and AI-first editors that read, write, and run code against real reposito
 
 - [Claude Code](https://www.anthropic.com/claude-code) - Anthropic's agentic tool that reads, edits, and executes against a real codebase from the terminal or IDE.
 - [Cline](https://cline.bot) - Open-source autonomous coding agent that runs inside VS Code with human-in-the-loop approval.
-- [Cursor](https://cursor.com) - AI-first code editor built around whole-repo context, an agent mode, and multi-line tab completion.
+- [Cursor](https://cursor.com) - AI-first code editor built around whole-repo context, an agent mode, and multi-line tab completion, being acquired by SpaceX.
 - [Devin](https://devin.ai) - Cognition's autonomous software engineer that takes tasks from Slack or an issue tracker, then plans, codes, tests, and opens pull requests.
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google's open-source terminal agent powered by Gemini, with MCP support and a generous free tier.
 - [GitHub Copilot](https://github.com/features/copilot) - Inline completion and an agent mode that edits across files and opens pull requests, integrated across GitHub and popular IDEs.
@@ -185,6 +185,7 @@ Assistants that record, transcribe, and summarize meetings, then draft the follo
 - [Fireflies](https://fireflies.ai) - Meeting assistant that records, transcribes, and answers questions across a team's call history.
 - [Granola](https://www.granola.ai) - Notepad that listens to your meetings and turns your rough notes into structured summaries.
 - [Otter](https://otter.ai) - Live transcription and meeting summaries with a chat interface over meeting history.
+- [Wispr Flow](https://wisprflow.ai) - AI dictation app that turns speech into polished text in any app, powered by its own Canto speech model.
 
 ## Industry applications
 
